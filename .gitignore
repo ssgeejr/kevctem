@@ -1,3 +1,11 @@
+
+
+# Ignore all .json files
+*.json
+
+# Ignore kev*.md files (anything starting with "kev" and ending with ".md")
+kev*.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
