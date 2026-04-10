@@ -2,6 +2,7 @@
 
 # Ignore all .json files
 *.json
+kev*.txt
 
 # Ignore kev*.md files (anything starting with "kev" and ending with ".md")
 kev*.md
